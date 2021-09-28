@@ -9,7 +9,7 @@
 ]
 - 📫 Como me achar[
   linkedin.com/in/talles-silva-martins-46801b212
-  tallessilvamartins@hotmail.com
+  tallessilvamartins@hotmail.com]
 
 <!---
 TallesMartins/TallesMartins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

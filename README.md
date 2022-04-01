@@ -1,11 +1,11 @@
 - 👋 Olá, sou @TallesMartins
-- 👀 Sou interessado em aprendizado e conquistas por mérito próprio ...
+- 👀 Totalmente interessado em aprender coisas novas e visitar novos horizontes
 - 🌱 Atualmente estou estudando[
   HTML,
   CSS,
-  JavaScript, 
+  JavaScript/Typescript, 
   C++,
-  C
+  Java/Groovy
 ]
 - 📫 Como me achar[
   linkedin.com/in/talles-silva-martins-46801b212
